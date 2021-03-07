@@ -5,9 +5,9 @@
 # Welcome
 
 👋 Hi! I am Owusu.<br />
-Full stack developer<br />
-with strong Python skills in data science,<br />
-passionate and engaged in financial (risks) modelling and analysis. ✨
+🦍 Full stack developer<br />
+📈 with strong Python skills in data science.<br />
+💸 Also passionate and engaged in financial (risks) modelling and analysis. ✨
 
 ☕ Lets connect? 👉 @ [Linkedin](https://www.linkedin.com/in/owusu-k-adjei-bohyen-b9b4bb83/)
 
