@@ -5,7 +5,7 @@
 📈 with strong Python skills in data science.<br />
 💸 Also passionate and engaged in financial (risks) modelling and analysis. ✨
 
-☕ Lets connect? 👉 @ [Linkedin](https://www.linkedin.com/in/owusu-k-adjei-bohyen-b9b4bb83/)
+☕ Lets connect? 👉 @ [Linkedin](https://linkedin.com/in/adjei-bohyen)
 
 
 <!--
